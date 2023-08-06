@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a03e69a5dcd09aa44a95c41d22facfc0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - EntryBackGroundMusic: {fileID: 8300000, guid: f5f33b761ad85f64d8abb5e37d26fc8e, type: 3}
+  - audioClick: {fileID: 8300000, guid: bb3ac993672b34141a58f8c8c928a45c, type: 3}
+  - EntryBackground: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
